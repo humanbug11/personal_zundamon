@@ -6,6 +6,7 @@
 
 - **VOICEVOX** — ずんだもんの声を合成するTTSエンジン
 - **Gemini API キー** — Google AI Studio で無料取得可能
+- WindowsPCのみ動作確認済み
 
 ---
 
