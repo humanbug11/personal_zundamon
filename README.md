@@ -16,8 +16,7 @@
 2. `dist/Zundamon AI Partner Setup 1.0.0.exe` を実行してインストール
 3. アプリを起動し、パネルに Gemini API キーを入力して **START**
 
-> ポータブル版は `dist/win-unpacked/Zundamon AI Partner.exe` を直接実行してください。
-
+> ポータブル版は `リリースからZundamon AI Partner.exe` を直接実行してください。
 ---
 
 ## 開発環境セットアップ
